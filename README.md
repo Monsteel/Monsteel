@@ -6,9 +6,9 @@
 [![PortFolio Badge](https://img.shields.io/badge/-PortFolio-yellow?style=for-the-badge&logo=notion&link=https://www.notion.so/monsteel/6aa947ba72674aa5bdb9cb95c888c3b4)](https://www.notion.so/monsteel/6aa947ba72674aa5bdb9cb95c888c3b4)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsteel&layout=compact&hide=java,jupyter%20notebook,c%23&exclude_repo=Monsteel.github.io)](https://github.com/Monsteel)
 [![Monsteel's github stats](https://github-readme-stats.vercel.app/api?username=Monsteel&show_icons=true&hide_border=true&count_private=true)](https://github.com/Monsteel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsteel&layout=compact&hide=java,jupyter%20notebook,c%23&exclude_repo=Monsteel.github.io)](https://github.com/Monsteel)
+
 
 ### 사용&학습 기술  
 
@@ -19,4 +19,4 @@
 |![](https://img.icons8.com/color/24/000000/java.png)|Java|Android, Spring Boot개발과 알고리즘 문제 해결에 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
 |<img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png" width="24" height="24">|Reactive X|RxJava, RxSwift를 통한 Ractive Programming이 가능합니다.|![70%](https://progress-bar.dev/70)|
 |<img src="https://user-images.githubusercontent.com/52942409/120409747-93f3d380-c38c-11eb-8d9b-89efda99aa3b.png" width="24" height="24">|ReacterKit|iOS 개발에 자유롭게 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|iOS, Android개발에 Apollo를 사용하여 GraphQL 개발이 가능합니다.|![70%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|iOS, Android개발에 Apollo를 사용하여 GraphQL 개발이 가능합니다.|![60%](https://progress-bar.dev/60)|
