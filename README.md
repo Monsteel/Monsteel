@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/52942409/120411892-90624b80-c390-11eb-96f7-d0d02f785049.png" height="200"> <img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="170" height="170">
+# <img src="https://user-images.githubusercontent.com/52942409/120411892-90624b80-c390-11eb-96f7-d0d02f785049.png" height="200"> <img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="150" height="150">
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Monsteel1212/)](https://www.facebook.com/Monsteel1212/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/e0eun_haru/)](https://www.instagram.com/e0eun_haru/)
