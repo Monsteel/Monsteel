@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/52942409/120411892-90624b80-c390-11eb-96f7-d0d02f785049.png" height="200"> <img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="150" height="150">
+# <img src="https://user-images.githubusercontent.com/52942409/120411892-90624b80-c390-11eb-96f7-d0d02f785049.png" height="200">
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Monsteel1212/)](https://www.facebook.com/Monsteel1212/)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/e0eun_haru/)](https://www.instagram.com/e0eun_haru/)
@@ -18,3 +18,9 @@
 |<img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png" width="24" height="24">|Reactive X|RxJava, RxSwift를 통한 Ractive Programming이 가능합니다.|![70%](https://progress-bar.dev/70)|
 |<img src="https://user-images.githubusercontent.com/52942409/120409747-93f3d380-c38c-11eb-8d9b-89efda99aa3b.png" width="24" height="24">|ReacterKit|iOS 개발에 자유롭게 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|iOS, Android개발에 Apollo를 사용하여 GraphQL 개발이 가능합니다.|![60%](https://progress-bar.dev/60)|
+
+
+
+### 기술 & 자격
+
+<img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="150" height="150">
