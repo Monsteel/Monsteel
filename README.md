@@ -24,3 +24,8 @@
 ### 기술 & 자격
 
 <img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="150" height="150">
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Monsteel)](https://github.com/Monsteel)
