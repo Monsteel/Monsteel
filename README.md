@@ -23,7 +23,7 @@
 
 ### 기술 & 자격
 
-<img src="https://user-images.githubusercontent.com/52942409/120566314-ef37cb80-c449-11eb-933c-82c11e2827c7.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/52942409/123717393-b9a2c880-d8b7-11eb-9d2f-a5963136aeea.gif" height="150">
 
 
 
