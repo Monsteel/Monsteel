@@ -16,7 +16,7 @@
 |![](https://img.icons8.com/color/24/000000/kotlin.png)|Kotlin|Android, Spring Boot개발과 알고리즘 문제 해결에 사용할 수 있습니다.|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/java.png)|Java|Android, Spring Boot개발과 알고리즘 문제 해결에 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
 |<img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png" width="24" height="24">|Reactive X|RxJava, RxSwift를 통한 Ractive Programming이 가능합니다.|![70%](https://progress-bar.dev/70)|
-|<img src="https://user-images.githubusercontent.com/52942409/120409747-93f3d380-c38c-11eb-8d9b-89efda99aa3b.png" width="24" height="24">|ReacterKit|iOS 개발에 자유롭게 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
+|<img src="https://user-images.githubusercontent.com/52942409/120409747-93f3d380-c38c-11eb-8d9b-89efda99aa3b.png" width="24" height="24">|ReactorKit|iOS 개발에 자유롭게 사용할 수 있습니다.|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/graphql.png)|GraphQL|iOS, Android개발에 Apollo를 사용하여 GraphQL 개발이 가능합니다.|![60%](https://progress-bar.dev/60)|
 
 
