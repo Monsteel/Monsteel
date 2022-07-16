@@ -13,8 +13,8 @@
 * 조직문화, 일을 더 잘하는 방식에 대해 관심이 많고, 일의 본질에 대해 깊이있게 고민합니다.
 
 ### 일하고 있는 곳
-* 초신선을 컨셉으로한 푸드테크 스타트업 [정육각](https://jeongyookgak.com)에서 iOS 개발자로 일하고 있습니다.
-* [정육각](https://jeongyookgak.com)의 초신선 물류 서비스 [정육각 런즈](https://jygruns.oopy.io/) 도메인과 [정육각 커머스](https://jeongyookgak.com/index) 도메인을 담당하고 있습니다.
+* 초신선을 컨셉으로한 푸드테크 스타트업 [정육각](https://team.jeongyookgak.com/)에서 iOS 개발자로 일하고 있습니다.
+* [정육각](https://team.jeongyookgak.com/)의 초신선 물류 서비스 [정육각 런즈](https://jygruns.oopy.io/) 도메인과 [정육각 커머스](https://jeongyookgak.com/index) 도메인을 담당하고 있습니다.
 * Composable architecture와 SwiftUI를 사용하는 환경에서 일하고 있습니다.
 * [주니어, 시니어 개발자가 함께 만드는 수평적인 개발문화 - 정육각 채용페이지](https://jeongyookgak.oopy.io/92f6180c-8ea9-4fb4-8af2-e4f9ed7ca2f3)
 
